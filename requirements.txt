@@ -1,3 +1,7 @@
+uvicorn
 openai
 agno
 OpenRouter
+sqlalchemy
+fastapi
+mcp
