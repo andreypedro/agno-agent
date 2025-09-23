@@ -3,5 +3,5 @@ openai
 agno
 OpenRouter
 sqlalchemy
-fastapi
+fastapi[standard]
 mcp
